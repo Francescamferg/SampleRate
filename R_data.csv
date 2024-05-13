@@ -1,0 +1,121 @@
+class ,Function,Chemical ,temperature ,RS,std.d,t50,SE
+Pharm,antidepressant ,citalopram,15,0.067,0.063,30,0.020910579
+Pharm,antidepressant ,citalopram,30,0.0621,0.0278,30,0.009261643
+Pharm,antidepressant ,citalopram,45,0.2124,0.1899,7,0.10966039
+PCP,sunscreen ,Benzophenone-1,4,0.157,0.064,30,0.02127493
+PCP,insect repellent,DEET,4,0.171,0.084,14,0.034285346
+PCP,sunscreen ,Benzophenone-1,15,0.1723,0.1026,30,0.034201942
+PCP,insect repellent,DEET,15,0.243,0.164,30,0.05460812
+PCP,sunscreen ,Benzophenone-1,30,0.1464,0.0701,30,0.023370117
+PCP,insect repellent,DEET,30,0.1478,0.0263,30,0.008780403
+PCP,sunscreen ,Benzophenone-1,45,0.5022,0.3193,7,0.184326137
+PCP,insect repellent,DEET,45,0.1868,0.1188,30,0.03959473
+PCP ,stimulant ,Caffeine,4,0.221,0.108,7,0.062519819
+PCP ,stimulant ,Caffeine,15,0.152,0.132,30,0.043853264
+PCP ,stimulant ,Caffeine,30,0.1480,0.0484,30,0.016127637
+PCP ,stimulant ,Caffeine,45,0.5645,0.5046,7,0.291302627
+Pest,herbicide ,ATRAZINE,4,0.069,0.054,7,0.031216894
+Pest,insecticide ,CHLORPYRIFOS,4,0.020,0.014,7,0.008167933
+Pest,insecticide,Clothianidin,4,0.094,0.090,7,0.052140592
+Pest,insecticide,Cyhalothrin,4,0.111,0.076,14,0.030971574
+Pest,insecticide,esfenvalerate,4,0.052,0.024,30,0.008030937
+Pest,insecticide,IMIDACLOPRID,4,1.554,0.945,14,0.385995738
+Pest,insecticide,MALATHION,4,0.065,0.057,7,0.032683266
+Pest,insecticide,Permethrin,4,0.334,0.178,14,0.072768812
+Pest,insecticide,Thiamethoxam,4,0.004,0.007,7,0.004244122
+Pest,insecticide ,CHLORPYRIFOS,15,0.0000,0.0000,0,0
+Pest,insecticide,Clothianidin,15,0.0238,0.0526,30,0.017541352
+Pest,insecticide,Cyhalothrin,15,0.189,0.132,30,0.043935547
+Pest,insecticide,esfenvalerate,15,0.0773,0.0888,30,0.029590485
+Pest,insecticide,IMIDACLOPRID,15,1.722943723,0.504380095,30,0.168126698
+Pest,insecticide,MALATHION,15,0.0130,0.0130,7,0.007498055
+Pest,insecticide,Permethrin,15,0.3106,0.1828,30,0.060930287
+Pest,insecticide,Thiamethoxam,15,0.0255,0.0127,7,0.007351035
+Pest,insecticide ,CHLORPYRIFOS,30,0.0041,0.0046,30,0.001524237
+Pest,insecticide,Clothianidin,30,0.0398,0.0350,14,0.014301173
+Pest,insecticide,Cyhalothrin,30,0.0909,0.1021,14,0.041680973
+Pest,insecticide,esfenvalerate,30,0.0547,0.0155,30,0.005171859
+Pest,insecticide,IMIDACLOPRID,30,2.2641,2.8203,7,1.628327228
+Pest,insecticide,MALATHION,30,0.0321,0.0408,30,0.013586933
+Pest,insecticide,Permethrin,30,0.3357,0.1366,30,0.045535181
+Pest,insecticide,Thiamethoxam,30,0.0170,0.0074,7,0.004244122
+Pest,insecticide ,CHLORPYRIFOS,45,0.0694,0.0990,7,0.057175529
+Pest,insecticide,Clothianidin,45,0.3185,0.4996,7,0.288462197
+Pest,insecticide,Cyhalothrin,45,0.1838,0.1728,7,0.099785933
+Pest,insecticide,esfenvalerate,45,0.0526,0.0233,30,0.007777317
+Pest,insecticide,IMIDACLOPRID,45,2.4589,1.0450,7,0.603317851
+Pest,insecticide,MALATHION,45,0.1126,0.1275,0,0.073593074
+Pest,insecticide,Permethrin,45,0.7489,0.7124,7,0.411323758
+Pest,insecticide,Thiamethoxam,45,0.0297,0.0515,7,0.029708853
+Pest,insecticide,carbaryl,4,0.075,0.053,30,0.01770094
+Pest,antibiotic ,Chlortetracycline,4,0.067,0.040,30,0.013352584
+Pest,insecticide,carbaryl,15,0.116,0.118,30,0.039354598
+Pest,antibiotic ,Chlortetracycline,15,0.0691,0.0537,30,0.017910569
+Pest,insecticide,carbaryl,30,0.0610,0.0429,30,0.014284591
+Pest,antibiotic ,Chlortetracycline,30,0.1045,0.0328,14,0.013397286
+Pest,insecticide,carbaryl,45,0.0736,0.0456,7,0.026332305
+Pest,antibiotic ,Chlortetracycline,45,0.2543,0.2278,7,0.131506411
+Pest,herbicide ,ATRAZINE,15,0.0206,0.0104,14,0.00424706
+Pest,herbicide ,ATRAZINE,30,0.0320,0.0197,30,0.006578081
+Pest,herbicide ,ATRAZINE,45,0.1558,0.2370,7,0.136826672
+Pharm,antidepressant ,Buspirone,4,0.021,0.019,7,0.011181291
+Pharm,anticonvulsant ,Carbamazepine A,4,0.126,0.146,7,0.08427672
+Pharm,antidepressant ,citalopram,4,0.053,0.029,30,0.009685505
+Pharm,antibiotic ,Erythromycin,4,0.021,0.014,7,0.008325008
+Pharm,NSAID,Ketoprofen,4,0.067,0.069,7,0.039707759
+Pharm,antidiabetic,Metformin,4,0.044,0.025,7,0.01464517
+Pharm,blood pressure,Metoprolol,4,0.080,0.047,30,0.015658371
+Pharm,antibiotic ,Ofloxacin,4,0.063,0.026,30,0.008751862
+Pharm,antibiotic ,Oxytetracycline,4,0.082,0.044,30,0.014764547
+Pharm,antibiotic ,Sulfadiazine,4,0.270,0.136,30,0.04544357
+Pharm,antibiotic ,Sulfadimethoxine,4,0.100,0.134,30,0.04475801
+Pharm,antibiotic ,Sulfamethoxazole,4,0.089,0.154,7,0.08912656
+Pharm,antibiotic ,Tetracycline,4,0.033,0.036,7,0.020891301
+Pharm,antibiotic ,Trimethoprim,4,0.065,0.057,7,0.032683266
+Pharm,antidepressant ,Venlafaxine,4,0.100,0.074,7,0.043008138
+Pharm,betablocker,atenolol,15,0.0196,0.0275,30,0.009160734
+Pharm,antidepressant ,Buspirone,15,0.0127,0.0127,7,0.007319873
+Pharm,anticonvulsant ,Carbamazepine A,15,0.0000,0.0000,0,0
+Pharm,antibiotic ,Erythromycin,15,0.0000,0.0000,0,0
+Pharm,NSAID,Ketoprofen,15,0.0441,0.0446,30,0.014862478
+Pharm,antidiabetic,Metformin,15,0.0221,0.0192,7,0.011070708
+Pharm,blood pressure,Metoprolol,15,0.0837,0.0663,30,0.022111668
+Pharm,antibiotic ,Ofloxacin,15,0.0816,0.0899,30,0.029951582
+Pharm,antibiotic ,Oxytetracycline,15,0.1697,0.0653,7,0.037713924
+Pharm,antibiotic ,Sulfadiazine,15,0.326,0.339,30,0.113153072
+Pharm,antibiotic ,Sulfadimethoxine,15,0.106,0.178,30,0.059237717
+Pharm,antibiotic ,Sulfamethoxazole,15,0.041,0.049,30,0.016403515
+Pharm,antibiotic ,Tetracycline,15,0.0083,0.0164,30,0.005477684
+Pharm,antibiotic ,Trimethoprim,15,0.0243,0.0277,30,0.009219888
+Pharm,antidepressant ,Venlafaxine,15,0.0742,0.0722,7,0.041656758
+Pharm,betablocker,atenolol,30,0.0359,0.0432,30,0.014399058
+Pharm,antidepressant ,Buspirone,30,0.0127,0.0000,7,0
+Pharm,anticonvulsant ,Carbamazepine A,30,0.0754,0.0579,30,0.019297616
+Pharm,antibiotic ,Erythromycin,30,0.0042,0.0047,30,0.001577608
+Pharm,NSAID,Ketoprofen,30,0.0470,0.0128,30,0.004274585
+Pharm,antidiabetic,Metformin,30,0.0055,0.0096,7,0.005535354
+Pharm,blood pressure,Metoprolol,30,0.1236,0.0388,14,0.015843928
+Pharm,antibiotic ,Ofloxacin,30,0.0995,0.0294,30,0.009811992
+Pharm,antibiotic ,Oxytetracycline,30,0.1284,0.0419,14,0.024198967
+Pharm,antibiotic ,Sulfadiazine,30,0.4703,0.1355,30,0.045153683
+Pharm,antibiotic ,Sulfadimethoxine,30,0.1879,0.0255,7,0.01472495
+Pharm,antibiotic ,Sulfamethoxazole,30,0.0509,0.0459,7,0.026504533
+Pharm,antibiotic ,Tetracycline,30,0.0113,0.0100,30,0.003322499
+Pharm,antibiotic ,Trimethoprim,30,0.0306,0.0119,30,0.003973277
+Pharm,antidepressant ,Venlafaxine,30,0.0535,0.0359,30,0.011950232
+Pharm,betablocker,atenolol,45,0.0519,0.0450,7,0.025974026
+Pharm,antidepressant ,Buspirone,45,0.0042,0.0073,7,0.004226131
+Pharm,anticonvulsant ,Carbamazepine A,45,0.4329,0.4261,7,0.2459926
+Pharm,antibiotic ,Erythromycin,45,0.0708,0.1009,7,0.058275058
+Pharm,NSAID,Ketoprofen,45,0.2456,0.3389,7,0.195637696
+Pharm,antidiabetic,Metformin,45,0.0055,0.0096,7,0.005535354
+Pharm,blood pressure,Metoprolol,45,0.3007,0.2694,7,0.155522398
+Pharm,antibiotic ,Ofloxacin,45,0.4043,0.3714,7,0.214437402
+Pharm,antibiotic ,Oxytetracycline,45,0.2546,0.2295,7,0.132492251
+Pharm,antibiotic ,Sulfadiazine,45,1.8918,1.6804,7,0.970160681
+Pharm,antibiotic ,Sulfadimethoxine,45,0.6575,0.7366,7,0.4252623
+Pharm,antibiotic ,Sulfamethoxazole,45,0.1995,0.3130,7,0.180711899
+Pharm,antibiotic ,Tetracycline,45,0.1128,0.1846,7,0.061549615
+Pharm,antibiotic ,Trimethoprim,45,0.2251,0.3562,7,0.205661879
+Pharm,antidepressant ,Venlafaxine,45,0.2402,0.3294,7,0.190194711
+Pharm,betablocker,atenolol,4,0.013,0.010,30,0.003290509
