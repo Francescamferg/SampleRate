@@ -116,6 +116,3 @@ PPCP,antibiotic ,Tetracycline,45,7.10632E-06,6.70757E-06,7,NA,444.4,?1.37,3.3
 Pesticide,insecticide,Thiamethoxam,45,1.86997E-06,1.86997E-06,7,NA,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,45,1.4166E-05,1.29469E-05,7,NA,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,45,1.51635E-05,1.19551E-05,7,NA,277.4,3.2,9.5
-Pharm,antibiotic ,Trimethoprim,45,0.2251,0.3562,7,0.205661879,,,
-Pharm,antidepressant ,Venlafaxine,45,0.2402,0.3294,7,0.190194711,,,
-Pharm,betablocker,atenolol,4,0.013,0.01,30,0.003290509,,,
