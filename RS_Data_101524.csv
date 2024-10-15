@@ -1,0 +1,121 @@
+class ,Function ,chemicals ,Temperature,RS,SE,T50,R2,Molecular weight (g/mol),log_Kow,pKa
+PPCP,betablocker,Atenolol,4,6.95966E-07,1.91822E-07,28,0.998,266.34,0.16,9.58
+Pesticide,herbicide ,Atrazine,4,4.13233E-06,1.85056E-06,7,NA,215.68,2.61,1.6
+PPCP,sunscreen ,Benzophenone_1,4,1.97992E-06,1.269E-06,28,0.817,214.22,2.96,7.1
+PPCP,antidepressant ,Buspirone,4,1.27178E-06,6.41119E-07,7,NA,385.5,2.63,7.6
+PPCP,stimulant ,Caffeine,4,1.33257E-05,3.64652E-06,7,NA,194.19,-0.07,14
+PPCP,anticonvulsant ,Carbamazepine_A,4,7.34462E-06,5.09577E-06,7,NA,236.27,2.45,13.9
+Pesticide,insecticide,Carbaryl,4,4.31728E-06,9.72188E-07,28,0.904,201.22,2.36,NA
+Pesticide,insecticide ,Chlorpyrifos,4,1.31833E-06,2.75208E-07,7,NA,350.6,4.96,NA
+Pesticide,antibiotic ,Chlortetracycline,4,3.70576E-06,7.75555E-07,28,0.9,478.9,-0.62,7.435
+PPCP,antidepressant ,Citalopram,4,3.01422E-06,6.13019E-07,28,0.821,324.4,3.74,9.38
+Pesticide,insecticide,Clothianidin,4,5.5881E-06,3.11863E-06,7,NA,249.68,0.7,11.09
+Pesticide,insecticide,Cyhalothrin,4,6.46913E-06,1.74699E-06,14,1,449.8,6.8,NA
+PPCP,insect repellent,DEET,4,6.46913E-06,1.77911E-06,14,1,191.27,2.02,NA
+PPCP,antibiotic ,Erythromycin,4,1.34369E-06,6.332E-07,7,NA,733.9,3.06,8.8
+Pesticide,insecticide,Esfenvalerate,4,5.04146E-06,7.07273E-07,7,NA,419.9,6.22,NA
+Pesticide,insecticide,Imidacloprid,4,3.86746E-06,5.25499E-05,7,NA,255.66,0.57,1.56
+PPCP,NSAID,Ketoprofen,4,3.86746E-06,2.39153E-06,7,NA,254.28,3.12,3.98
+Pesticide,insecticide,Malathion,4,3.96739E-06,1.94815E-06,7,NA,330.4,2.36,NA
+PPCP,antidiabetic,Metformin,4,2.78282E-06,9.55656E-07,7,NA,129.16,-2.64,12.4
+PPCP,blood pressure,Metoprolol,4,4.43888E-06,9.12101E-07,28,0.9,267.36,1.88,9.56
+PPCP,antibiotic ,Ofloxacin,4,3.48279E-06,5.28655E-07,28,0.997,361.4,-0.39,5.07
+PPCP,antibiotic ,Oxytetracycline,4,4.89268E-06,1.03561E-06,28,0.845,460.4,-0.9,9.5
+Pesticide,insecticide,Permethrin,4,1.93931E-05,3.99202E-06,14,1,391.3,6.5,NA
+PPCP,antibiotic ,Sulfadiazine,4,1.47782E-05,2.62546E-06,28,0.928,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadimethoxine,4,5.61751E-06,2.70834E-06,28,0.914,310.33,1.63,1.3
+PPCP,antibiotic ,Sulfamethoxazole,4,5.34545E-06,5.34545E-06,7,NA,253.28,0.89,1.6
+PPCP,antibiotic ,Tetracycline,4,2.0197E-06,1.24681E-06,7,NA,444.4,?1.37,3.3
+Pesticide,insecticide,Thiamethoxam,4,3.56172E-07,1.29216E-07,14,1,291.72,-0.13,NA
+PPCP,antibiotic ,Trimethoprim,4,3.8991E-06,1.94679E-06,7,NA,290.32,0.91,7.12
+PPCP,antidepressant ,Venlafaxine,4,5.99074E-06,2.54165E-06,7,NA,277.4,3.2,9.5
+PPCP,betablocker,Atenolol,15,1.26498E-06,6.07653E-07,28,0.873,266.34,0.16,9.58
+Pesticide,herbicide ,Atrazine,15,1.31114E-06,2.16649E-07,14,1,215.68,2.61,1.6
+PPCP,sunscreen ,Benzophenone_1,15,1.12704E-05,2.24024E-06,28,0.978,214.22,2.96,7.1
+PPCP,antidepressant ,Buspirone,15,7.74703E-07,4.51494E-07,7,NA,385.5,2.63,7.6
+PPCP,stimulant ,Caffeine,15,9.73858E-06,2.77047E-06,28,0.883,194.19,-0.07,14
+Pesticide,insecticide,Carbaryl,15,7.60101E-06,2.58655E-06,28,0.919,201.22,2.36,NA
+Pesticide,antibiotic ,Chlortetracycline,15,4.49705E-06,1.21013E-06,28,0.913,478.9,-0.62,7.435
+PPCP,antidepressant ,Citalopram,15,4.39592E-06,1.39457E-06,28,0.928,324.4,3.74,9.38
+Pesticide,insecticide,Clothianidin,15,1.63788E-06,1.19426E-06,28,0.968,249.68,0.7,11.09
+Pesticide,insecticide,Cyhalothrin,15,1.25665E-05,2.91355E-06,28,0.939,449.8,6.8,NA
+PPCP,insect repellent,DEET,15,1.58527E-05,3.43958E-06,28,0.997,191.27,2.02,NA
+Pesticide,insecticide,Esfenvalerate,15,5.01309E-06,2.00233E-06,28,0.9,419.9,6.22,NA
+Pesticide,insecticide,Imidacloprid,15,8.96033E-05,1.23229E-05,14,1,255.66,0.57,1.56
+PPCP,NSAID,Ketoprofen,15,2.90859E-06,9.76393E-07,28,0.98,254.28,3.12,3.98
+Pesticide,insecticide,Malathion,15,8.36031E-07,2.99492E-07,14,1,330.4,2.36,NA
+PPCP,antidiabetic,Metformin,15,1.27276E-06,6.38159E-07,7,NA,129.16,-2.64,12.4
+PPCP,blood pressure,Metoprolol,15,5.44681E-06,1.49596E-06,28,0.913,267.36,1.88,9.56
+PPCP,antibiotic ,Ofloxacin,15,5.464E-06,2.04718E-06,28,0.969,361.4,-0.39,5.07
+PPCP,antibiotic ,Oxytetracycline,15,6.74703E-06,1.65224E-06,14,1,460.4,-0.9,9.5
+Pesticide,insecticide,Permethrin,15,1.99463E-05,3.49381E-06,28,0.964,391.3,6.5,NA
+PPCP,antibiotic ,Sulfadiazine,15,2.18751E-05,7.76398E-06,28,0.978,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadimethoxine,15,7.41019E-06,4.06141E-06,28,0.994,310.33,1.63,1.3
+PPCP,antibiotic ,Sulfamethoxazole,15,2.59869E-06,9.42161E-07,28,0.994,253.28,0.89,1.6
+PPCP,antibiotic ,Tetracycline,15,5.61471E-07,3.7119E-07,28,0.94,444.4,?1.37,3.3
+Pesticide,insecticide,Thiamethoxam,15,1.50659E-06,4.62675E-07,7,NA,291.72,-0.13,NA
+PPCP,antibiotic ,Trimethoprim,15,1.61232E-06,6.04893E-07,28,0.954,290.32,0.91,7.12
+PPCP,antidepressant ,Venlafaxine,15,4.25776E-06,2.30686E-06,7,NA,277.4,3.2,9.5
+PPCP,betablocker,Atenolol,30,2.17082E-06,8.4101E-07,28,0.997,266.34,0.16,9.58
+Pesticide,herbicide ,Atrazine,30,2.02222E-06,4.20679E-07,28,0.945,215.68,2.61,1.6
+PPCP,sunscreen ,Benzophenone_1,30,9.1692E-06,1.48904E-06,28,0.96,214.22,2.96,7.1
+PPCP,antidepressant ,Buspirone,30,8.17358E-07,4.51582E-08,7,NA,385.5,2.63,7.6
+PPCP,stimulant ,Caffeine,30,9.4501E-06,1.14925E-06,28,0.981,194.19,-0.07,14
+PPCP,anticonvulsant ,Carbamazepine_A,30,4.69105E-06,1.21803E-06,28,0.915,236.27,2.45,13.9
+Pesticide,insecticide,Carbaryl,30,3.89866E-06,9.20095E-07,28,0.8,201.22,2.36,NA
+Pesticide,insecticide ,Chlorpyrifos,30,2.43673E-07,8.91705E-08,28,1,350.6,4.96,NA
+Pesticide,antibiotic ,Chlortetracycline,30,6.54128E-06,3.0011E-07,14,1,478.9,-0.62,7.435
+PPCP,antidepressant ,Citalopram,30,3.94744E-06,6.12157E-07,28,0.921,324.4,3.74,9.38
+Pesticide,insecticide,Clothianidin,30,2.46829E-06,7.31578E-07,28,0.91,249.68,0.7,11.09
+Pesticide,insecticide,Cyhalothrin,30,5.686E-06,2.65878E-06,14,1,449.8,6.8,NA
+PPCP,insect repellent,DEET,30,9.29113E-06,5.51595E-07,28,0.934,191.27,2.02,NA
+PPCP,antibiotic ,Erythromycin,30,2.53507E-07,9.2476E-08,28,1,733.9,3.06,8.8
+Pesticide,insecticide,Esfenvalerate,30,3.42983E-06,3.09698E-07,28,0.9,419.9,6.22,NA
+Pesticide,insecticide,Imidacloprid,30,0.000150065,0.000110347,7,NA,255.66,0.57,1.56
+PPCP,NSAID,Ketoprofen,30,2.99379E-06,3.11313E-07,28,0.953,254.28,3.12,3.98
+Pesticide,insecticide,Malathion,30,1.16156E-06,4.31906E-07,14,1,330.4,2.36,NA
+PPCP,antidiabetic,Metformin,30,3.1778E-07,3.1778E-07,7,1,129.16,-2.64,12.4
+PPCP,blood pressure,Metoprolol,30,6.03771E-06,1.16152E-06,28,0.913,267.36,1.88,9.56
+PPCP,antibiotic ,Ofloxacin,30,6.29141E-06,6.45836E-07,28,0.998,361.4,-0.39,5.07
+PPCP,antibiotic ,Oxytetracycline,30,1.04663E-05,1.22536E-06,7,NA,460.4,-0.9,9.5
+Pesticide,insecticide,Permethrin,30,2.12766E-05,3.02601E-06,28,0.953,391.3,6.5,NA
+PPCP,antibiotic ,Sulfadiazine,30,2.97149E-05,2.96331E-06,28,0.998,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadimethoxine,30,1.2029E-05,6.3772E-07,7,NA,310.33,1.63,1.3
+PPCP,antibiotic ,Sulfamethoxazole,30,3.4561E-06,1.78911E-06,7,NA,253.28,0.89,1.6
+PPCP,antibiotic ,Tetracycline,30,7.24525E-07,2.1449E-07,28,0.89,444.4,?1.37,3.3
+Pesticide,insecticide,Thiamethoxam,30,1.06449E-06,1.98803E-07,7,NA,291.72,-0.13,NA
+PPCP,antibiotic ,Trimethoprim,30,1.95971E-06,2.87003E-07,28,0.944,290.32,0.91,7.12
+PPCP,antidepressant ,Venlafaxine,30,3.44113E-06,8.06485E-07,28,0.993,277.4,3.2,9.5
+PPCP,betablocker,Atenolol,45,2.41291E-06,8.85153E-07,14,1,266.34,0.16,9.58
+Pesticide,herbicide ,Atrazine,45,9.76591E-06,8.63091E-06,7,NA,215.68,2.61,1.6
+PPCP,sunscreen ,Benzophenone_1,45,3.13634E-05,1.17057E-05,7,NA,214.22,2.96,7.1
+PPCP,antidepressant ,Buspirone,45,2.66005E-07,2.66005E-07,7,NA,385.5,2.63,7.6
+PPCP,stimulant ,Caffeine,45,3.52957E-05,1.84319E-05,7,NA,194.19,-0.07,14
+PPCP,anticonvulsant ,Carbamazepine_A,45,2.70507E-05,1.55545E-05,7,NA,236.27,2.45,13.9
+Pesticide,insecticide,Carbaryl,45,3.57718E-06,1.09728E-06,14,1,201.22,2.36,NA
+Pesticide,insecticide ,Chlorpyrifos,45,4.36173E-06,3.60296E-06,7,NA,350.6,4.96,NA
+Pesticide,antibiotic ,Chlortetracycline,45,1.59129E-05,8.32069E-06,7,NA,478.9,-0.62,7.435
+PPCP,antidepressant ,Citalopram,45,1.32493E-05,6.93692E-06,7,NA,324.4,3.74,9.38
+Pesticide,insecticide,Clothianidin,45,2.00775E-05,1.81447E-05,7,NA,249.68,0.7,11.09
+Pesticide,insecticide,Cyhalothrin,45,1.13356E-05,6.25658E-06,7,NA,449.8,6.8,NA
+PPCP,insect repellent,DEET,45,1.17313E-05,2.51685E-06,28,0.959,191.27,2.02,NA
+PPCP,antibiotic ,Erythromycin,45,4.44561E-06,3.67225E-06,7,NA,733.9,3.06,8.8
+Pesticide,insecticide,Esfenvalerate,45,3.29221E-06,5.04654E-07,28,0.887,419.9,6.22,NA
+Pesticide,insecticide,Imidacloprid,45,0.000154079,3.91913E-05,7,NA,255.66,0.57,1.56
+PPCP,NSAID,Ketoprofen,45,1.54244E-05,1.2331E-05,7,NA,254.28,3.12,3.98
+Pesticide,insecticide,Malathion,45,7.05828E-06,4.64558E-06,7,NA,330.4,2.36,NA
+PPCP,antidiabetic,Metformin,45,3.48412E-07,3.48412E-07,7,NA,129.16,-2.64,12.4
+PPCP,blood pressure,Metoprolol,45,1.88189E-05,9.84023E-06,7,NA,267.36,1.88,9.56
+PPCP,antibiotic ,Ofloxacin,45,2.53114E-05,1.35642E-05,7,NA,361.4,-0.39,5.07
+PPCP,antibiotic ,Oxytetracycline,45,1.584E-05,8.37337E-06,7,NA,460.4,-0.9,9.5
+Pesticide,insecticide,Permethrin,45,4.68918E-05,2.60094E-05,7,NA,391.3,6.5,NA
+PPCP,antibiotic ,Sulfadiazine,45,0.000118373,6.13894E-05,7,NA,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadimethoxine,45,4.11724E-05,2.68595E-05,7,NA,310.33,1.63,1.3
+PPCP,antibiotic ,Sulfamethoxazole,45,1.25723E-05,1.13671E-05,7,NA,253.28,0.89,1.6
+PPCP,antibiotic ,Tetracycline,45,7.10632E-06,6.70757E-06,7,NA,444.4,?1.37,3.3
+Pesticide,insecticide,Thiamethoxam,45,1.86997E-06,1.86997E-06,7,NA,291.72,-0.13,NA
+PPCP,antibiotic ,Trimethoprim,45,1.4166E-05,1.29469E-05,7,NA,290.32,0.91,7.12
+PPCP,antidepressant ,Venlafaxine,45,1.51635E-05,1.19551E-05,7,NA,277.4,3.2,9.5
+Pharm,antibiotic ,Trimethoprim,45,0.2251,0.3562,7,0.205661879,,,
+Pharm,antidepressant ,Venlafaxine,45,0.2402,0.3294,7,0.190194711,,,
+Pharm,betablocker,atenolol,4,0.013,0.01,30,0.003290509,,,
