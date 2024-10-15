@@ -22,10 +22,10 @@ PPCP,blood pressure,Metoprolol,4,4.43888E-06,9.12101E-07,28,0.9,267.36,1.88,9.56
 PPCP,antibiotic ,Ofloxacin,4,3.48279E-06,5.28655E-07,28,0.997,361.4,-0.39,5.07
 PPCP,antibiotic ,Oxytetracycline,4,4.89268E-06,1.03561E-06,28,0.845,460.4,-0.9,9.5
 Pesticide,insecticide,Permethrin,4,1.93931E-05,3.99202E-06,14,1,391.3,6.5,NA
-PPCP,antibiotic ,Sulfadiazine,4,1.47782E-05,2.62546E-06,28,0.928,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadiazine,4,1.47782E-05,2.62546E-06,28,0.928,250.28,-0.09,6.36
 PPCP,antibiotic ,Sulfadimethoxine,4,5.61751E-06,2.70834E-06,28,0.914,310.33,1.63,1.3
 PPCP,antibiotic ,Sulfamethoxazole,4,5.34545E-06,5.34545E-06,7,NA,253.28,0.89,1.6
-PPCP,antibiotic ,Tetracycline,4,2.0197E-06,1.24681E-06,7,NA,444.4,?1.37,3.3
+PPCP,antibiotic ,Tetracycline,4,2.0197E-06,1.24681E-06,7,NA,444.4,-1.37,3.3
 Pesticide,insecticide,Thiamethoxam,4,3.56172E-07,1.29216E-07,14,1,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,4,3.8991E-06,1.94679E-06,7,NA,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,4,5.99074E-06,2.54165E-06,7,NA,277.4,3.2,9.5
@@ -49,10 +49,10 @@ PPCP,blood pressure,Metoprolol,15,5.44681E-06,1.49596E-06,28,0.913,267.36,1.88,9
 PPCP,antibiotic ,Ofloxacin,15,5.464E-06,2.04718E-06,28,0.969,361.4,-0.39,5.07
 PPCP,antibiotic ,Oxytetracycline,15,6.74703E-06,1.65224E-06,14,1,460.4,-0.9,9.5
 Pesticide,insecticide,Permethrin,15,1.99463E-05,3.49381E-06,28,0.964,391.3,6.5,NA
-PPCP,antibiotic ,Sulfadiazine,15,2.18751E-05,7.76398E-06,28,0.978,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadiazine,15,2.18751E-05,7.76398E-06,28,0.978,250.28,-0.09,6.36
 PPCP,antibiotic ,Sulfadimethoxine,15,7.41019E-06,4.06141E-06,28,0.994,310.33,1.63,1.3
 PPCP,antibiotic ,Sulfamethoxazole,15,2.59869E-06,9.42161E-07,28,0.994,253.28,0.89,1.6
-PPCP,antibiotic ,Tetracycline,15,5.61471E-07,3.7119E-07,28,0.94,444.4,?1.37,3.3
+PPCP,antibiotic ,Tetracycline,15,5.61471E-07,3.7119E-07,28,0.94,444.4,-1.37,3.3
 Pesticide,insecticide,Thiamethoxam,15,1.50659E-06,4.62675E-07,7,NA,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,15,1.61232E-06,6.04893E-07,28,0.954,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,15,4.25776E-06,2.30686E-06,7,NA,277.4,3.2,9.5
@@ -79,10 +79,10 @@ PPCP,blood pressure,Metoprolol,30,6.03771E-06,1.16152E-06,28,0.913,267.36,1.88,9
 PPCP,antibiotic ,Ofloxacin,30,6.29141E-06,6.45836E-07,28,0.998,361.4,-0.39,5.07
 PPCP,antibiotic ,Oxytetracycline,30,1.04663E-05,1.22536E-06,7,NA,460.4,-0.9,9.5
 Pesticide,insecticide,Permethrin,30,2.12766E-05,3.02601E-06,28,0.953,391.3,6.5,NA
-PPCP,antibiotic ,Sulfadiazine,30,2.97149E-05,2.96331E-06,28,0.998,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadiazine,30,2.97149E-05,2.96331E-06,28,0.998,250.28,-0.09,6.36
 PPCP,antibiotic ,Sulfadimethoxine,30,1.2029E-05,6.3772E-07,7,NA,310.33,1.63,1.3
 PPCP,antibiotic ,Sulfamethoxazole,30,3.4561E-06,1.78911E-06,7,NA,253.28,0.89,1.6
-PPCP,antibiotic ,Tetracycline,30,7.24525E-07,2.1449E-07,28,0.89,444.4,?1.37,3.3
+PPCP,antibiotic ,Tetracycline,30,7.24525E-07,2.1449E-07,28,0.89,444.4,-1.37,3.3
 Pesticide,insecticide,Thiamethoxam,30,1.06449E-06,1.98803E-07,7,NA,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,30,1.95971E-06,2.87003E-07,28,0.944,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,30,3.44113E-06,8.06485E-07,28,0.993,277.4,3.2,9.5
@@ -109,10 +109,10 @@ PPCP,blood pressure,Metoprolol,45,1.88189E-05,9.84023E-06,7,NA,267.36,1.88,9.56
 PPCP,antibiotic ,Ofloxacin,45,2.53114E-05,1.35642E-05,7,NA,361.4,-0.39,5.07
 PPCP,antibiotic ,Oxytetracycline,45,1.584E-05,8.37337E-06,7,NA,460.4,-0.9,9.5
 Pesticide,insecticide,Permethrin,45,4.68918E-05,2.60094E-05,7,NA,391.3,6.5,NA
-PPCP,antibiotic ,Sulfadiazine,45,0.000118373,6.13894E-05,7,NA,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadiazine,45,0.000118373,6.13894E-05,7,NA,250.28,-0.09,6.36
 PPCP,antibiotic ,Sulfadimethoxine,45,4.11724E-05,2.68595E-05,7,NA,310.33,1.63,1.3
 PPCP,antibiotic ,Sulfamethoxazole,45,1.25723E-05,1.13671E-05,7,NA,253.28,0.89,1.6
-PPCP,antibiotic ,Tetracycline,45,7.10632E-06,6.70757E-06,7,NA,444.4,?1.37,3.3
+PPCP,antibiotic ,Tetracycline,45,7.10632E-06,6.70757E-06,7,NA,444.4,-1.37,3.3
 Pesticide,insecticide,Thiamethoxam,45,1.86997E-06,1.86997E-06,7,NA,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,45,1.4166E-05,1.29469E-05,7,NA,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,45,1.51635E-05,1.19551E-05,7,NA,277.4,3.2,9.5
