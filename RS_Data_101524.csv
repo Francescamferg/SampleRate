@@ -34,15 +34,15 @@ Pesticide,herbicide ,Atrazine,15,2.09E-06,3.46E-07,14,1,215.68,2.61,1.6,-5.67985
 PPCP,sunscreen ,Benzophenone_1,15,1.80E-05,3.58E-06,28,0.978,214.22,2.96,7.1,-4.744727495
 PPCP,antidepressant ,Buspirone,15,1.24E-06,7.21E-07,7,NA,385.5,2.63,7.6,-5.906578315
 PPCP,stimulant ,Caffeine,15,1.55E-05,4.42E-06,28,0.883,194.19,-0.07,14,-4.809668302
-Pesticide,insecticide,Carbaryl,15,0.00E+00,0.00E+00,28,0.919,201.22,2.36,NA,0
+Pesticide,insecticide,Carbaryl,15,0.00E+00,0.00E+00,28,0.919,201.22,2.36,NA,NA
 Pesticide,antibiotic ,Chlortetracycline,15,1.21E-05,4.13E-06,28,0.913,478.9,-0.62,7.435,-4.91721463
-PPCP,antidepressant ,Citalopram,15,0.00E+00,0.00E+00,28,0.928,324.4,3.74,9.38,0
+PPCP,antidepressant ,Citalopram,15,0.00E+00,0.00E+00,28,0.928,324.4,3.74,9.38,NA
 Pesticide,insecticide,Clothianidin,15,7.18E-06,1.93E-06,28,0.968,249.68,0.7,11.09,-5.143875556
 Pesticide,insecticide,Cyhalothrin,15,7.02E-06,2.23E-06,28,0.939,449.8,6.8,NA,-5.153662888
 PPCP,insect repellent,DEET,15,2.62E-06,1.91E-06,28,0.997,191.27,2.02,NA,-5.581698709
 Pesticide,insecticide,Esfenvalerate,15,2.01E-05,4.65E-06,28,0.9,419.9,6.22,NA,-4.696803943
 Pesticide,insecticide,Imidacloprid,15,2.53E-05,5.49E-06,14,1,255.66,0.57,1.56,-4.596879479
-PPCP,NSAID,Ketoprofen,15,0.00E+00,0.00E+00,28,0.98,254.28,3.12,3.98,0
+PPCP,NSAID,Ketoprofen,15,0.00E+00,0.00E+00,28,0.98,254.28,3.12,3.98,NA
 Pesticide,insecticide,Malathion,15,8.00E-06,3.20E-06,14,1,330.4,2.36,NA,-5.096910013
 PPCP,antidiabetic,Metformin,15,1.43E-04,1.97E-05,7,NA,129.16,-2.64,12.4,-3.844663963
 PPCP,blood pressure,Metoprolol,15,4.64E-06,1.56E-06,28,0.913,267.36,1.88,9.56,-5.333482019
