@@ -1,4 +1,4 @@
-class ,Function ,chemicals ,Temperature,RS,SE,T50,R2,Molecular weight (g/mol),log_Kow,pKa
+Class ,Function ,Chemicals ,Temperature,RS,SE,T50,R2,MW,logKow,pKa
 PPCP,betablocker,Atenolol,4,1.11E-06,3.06E-07,28,0.998,266.34,0.16,9.58
 Pesticide,herbicide ,Atrazine,4,6.60E-06,2.95E-06,7,NA,215.68,2.61,1.6
 PPCP,sunscreen ,Benzophenone_1,4,3.16E-06,2.03E-06,28,0.817,214.22,2.96,7.1
