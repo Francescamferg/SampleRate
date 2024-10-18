@@ -22,10 +22,10 @@ PPCP,blood pressure,Metoprolol,4,7.09E-06,1.46E-06,28,0.9,267.36,1.88,9.56
 PPCP,antibiotic ,Ofloxacin,4,5.56E-06,8.44E-07,28,0.997,361.4,-0.39,5.07
 PPCP,antibiotic ,Oxytetracycline,4,7.81E-06,1.65E-06,28,0.845,460.4,-0.9,9.5
 Pesticide,insecticide,Permethrin,4,3.10E-05,6.37E-06,14,1,391.3,6.5,NA
-PPCP,antibiotic ,Sulfadiazine,4,2.36E-05,4.19E-06,28,0.928,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadiazine,4,2.36E-05,4.19E-06,28,0.928,250.28,0.09,6.36
 PPCP,antibiotic ,Sulfadimethoxine,4,8.97E-06,4.32E-06,28,0.914,310.33,1.63,1.3
 PPCP,antibiotic ,Sulfamethoxazole,4,8.53E-06,8.53E-06,7,NA,253.28,0.89,1.6
-PPCP,antibiotic ,Tetracycline,4,3.22E-06,1.99E-06,7,NA,444.4,?1.37,3.3
+PPCP,antibiotic ,Tetracycline,4,3.22E-06,1.99E-06,7,NA,444.4,1.37,3.3
 Pesticide,insecticide,Thiamethoxam,4,5.69E-07,2.06E-07,14,1,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,4,6.23E-06,3.11E-06,7,NA,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,4,9.57E-06,4.06E-06,7,NA,277.4,3.2,9.5
@@ -49,10 +49,10 @@ PPCP,blood pressure,Metoprolol,15,4.64E-06,1.56E-06,28,0.913,267.36,1.88,9.56
 PPCP,antibiotic ,Ofloxacin,15,1.33E-06,4.78E-07,28,0.969,361.4,-0.39,5.07
 PPCP,antibiotic ,Oxytetracycline,15,2.03E-06,1.02E-06,14,1,460.4,-0.9,9.5
 Pesticide,insecticide,Permethrin,15,8.70E-06,2.39E-06,28,0.964,391.3,6.5,NA
-PPCP,antibiotic ,Sulfadiazine,15,8.72E-06,3.27E-06,28,0.978,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadiazine,15,8.72E-06,3.27E-06,28,0.978,250.28,0.09,6.36
 PPCP,antibiotic ,Sulfadimethoxine,15,1.08E-05,2.64E-06,28,0.994,310.33,1.63,1.3
 PPCP,antibiotic ,Sulfamethoxazole,15,3.18E-05,5.58E-06,28,0.994,253.28,0.89,1.6
-PPCP,antibiotic ,Tetracycline,15,3.49E-05,1.24E-05,28,0.94,444.4,?1.37,3.3
+PPCP,antibiotic ,Tetracycline,15,3.49E-05,1.24E-05,28,0.94,444.4,1.37,3.3
 Pesticide,insecticide,Thiamethoxam,15,1.18E-05,6.48E-06,7,NA,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,15,4.15E-06,1.50E-06,28,0.954,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,15,8.96E-07,5.93E-07,7,NA,277.4,3.2,9.5
@@ -79,10 +79,10 @@ PPCP,blood pressure,Metoprolol,30,9.64E-06,1.85E-06,28,0.913,267.36,1.88,9.56
 PPCP,antibiotic ,Ofloxacin,30,1.00E-05,1.03E-06,28,0.998,361.4,-0.39,5.07
 PPCP,antibiotic ,Oxytetracycline,30,1.67E-05,1.96E-06,7,NA,460.4,-0.9,9.5
 Pesticide,insecticide,Permethrin,30,3.40E-05,4.83E-06,28,0.953,391.3,6.5,NA
-PPCP,antibiotic ,Sulfadiazine,30,4.74E-05,4.73E-06,28,0.998,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadiazine,30,4.74E-05,4.73E-06,28,0.998,250.28,0.09,6.36
 PPCP,antibiotic ,Sulfadimethoxine,30,1.92E-05,1.02E-06,7,NA,310.33,1.63,1.3
 PPCP,antibiotic ,Sulfamethoxazole,30,5.52E-06,2.86E-06,7,NA,253.28,0.89,1.6
-PPCP,antibiotic ,Tetracycline,30,1.16E-06,3.42E-07,28,0.89,444.4,?1.37,3.3
+PPCP,antibiotic ,Tetracycline,30,1.16E-06,3.42E-07,28,0.89,444.4,1.37,3.3
 Pesticide,insecticide,Thiamethoxam,30,1.70E-06,3.17E-07,7,NA,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,30,3.13E-06,4.58E-07,28,0.944,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,30,5.49E-06,1.29E-06,28,0.993,277.4,3.2,9.5
@@ -109,10 +109,10 @@ PPCP,blood pressure,Metoprolol,45,3.00E-05,1.57E-05,7,NA,267.36,1.88,9.56
 PPCP,antibiotic ,Ofloxacin,45,4.04E-05,2.17E-05,7,NA,361.4,-0.39,5.07
 PPCP,antibiotic ,Oxytetracycline,45,2.53E-05,1.34E-05,7,NA,460.4,-0.9,9.5
 Pesticide,insecticide,Permethrin,45,7.49E-05,4.15E-05,7,NA,391.3,6.5,NA
-PPCP,antibiotic ,Sulfadiazine,45,0.000188999,9.80E-05,7,NA,250.28,?0.09,6.36
+PPCP,antibiotic ,Sulfadiazine,45,0.000188999,9.80E-05,7,NA,250.28,0.09,6.36
 PPCP,antibiotic ,Sulfadimethoxine,45,6.57E-05,4.29E-05,7,NA,310.33,1.63,1.3
 PPCP,antibiotic ,Sulfamethoxazole,45,2.01E-05,1.81E-05,7,NA,253.28,0.89,1.6
-PPCP,antibiotic ,Tetracycline,45,1.13E-05,1.07E-05,7,NA,444.4,?1.37,3.3
+PPCP,antibiotic ,Tetracycline,45,1.13E-05,1.07E-05,7,NA,444.4,1.37,3.3
 Pesticide,insecticide,Thiamethoxam,45,2.99E-06,2.99E-06,7,NA,291.72,-0.13,NA
 PPCP,antibiotic ,Trimethoprim,45,2.26E-05,2.07E-05,7,NA,290.32,0.91,7.12
 PPCP,antidepressant ,Venlafaxine,45,2.42E-05,1.91E-05,7,NA,277.4,3.2,9.5
